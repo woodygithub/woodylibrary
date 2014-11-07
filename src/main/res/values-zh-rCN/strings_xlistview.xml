@@ -1,0 +1,9 @@
+<resources>
+    <string name="xlistview_load_error">载入错误</string>
+    <string name="xlistview_header_hint_normal">下拉刷新</string>
+    <string name="xlistview_header_hint_ready">松开刷新数据</string>
+    <string name="xlistview_header_hint_loading">加载中&#8230;</string>
+    <string name="xlistview_footer_hint_normal">查看更多</string>
+    <string name="xlistview_footer_hint_nomore">加载完毕</string>
+    <string name="xlistview_footer_hint_ready">松开载入更多</string>
+</resources>

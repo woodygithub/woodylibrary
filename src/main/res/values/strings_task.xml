@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="Task.PleaseWait">Please wait&#8230;</string>
+    <string name="Task.LoadFail">Load fail</string>
+    <string name="Task.DoSuccess">Do success</string>
+    <string name="Task.Downloading">Downloading&#8230;</string>
+    <string name="Task.StopDownload">Stop</string>
+    <string name="Task.DownloadComplete">Download complete</string>
+    <string name="Task.DownloadFail">Download fail</string>
+
+</resources>

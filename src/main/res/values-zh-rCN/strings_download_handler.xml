@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="download_no_sdcard_dlg_title" product="default" msgid="605904452159416792">"无 SD 卡"</string>
+    <string name="download_no_sdcard_dlg_msg" product="default" msgid="2616399456116301518">"需要有 SD 卡才能下载"</string>
+    <string name="download_sdcard_busy_dlg_title" product="default" msgid="6877712666046917741">"SD 卡不可用"</string>
+    <string name="download_sdcard_busy_dlg_msg" product="default" msgid="2629425950473358591">"SD 卡正忙。要允许下载，请在通知中触摸“关闭 USB 存储设备”。"</string>
+    <string name="cannot_download" msgid="8150552478556798780">"只能从“http”或“https”网址下载。"</string>
+    <string name="download_pending" msgid="2599683668575349559">"正在开始下载&#8320;"</string>
+</resources>

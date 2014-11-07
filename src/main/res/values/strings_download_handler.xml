@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="download_no_sdcard_dlg_title" product="default" msgid="605904452159416792">No SD card</string>
+    <string name="download_no_sdcard_dlg_msg" product="default" msgid="2616399456116301518">An SD card is required to download</string>
+    <string name="download_sdcard_busy_dlg_title" product="default" msgid="6877712666046917741">SD card unavailable</string>
+    <string name="download_sdcard_busy_dlg_msg" product="default" msgid="2629425950473358591">The SD card is busy. To allow downloads, touch Turn Off USB Storage in the notification.</string>
+    <string name="cannot_download" msgid="8150552478556798780">Can only download \"http\" or \"https\" URLs.</string>
+    <string name="download_pending" msgid="2599683668575349559">Starting download\u2026</string>
+</resources>

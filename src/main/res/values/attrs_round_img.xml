@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="RoundAngleImageView">
+        <attr name="roundWidth" format="dimension" />
+        <attr name="roundHeight" format="dimension" />
+        <attr name="borderWidth" format="dimension" />
+        <attr name="borderColor" format="integer"/>
+    </declare-styleable>
+    <declare-styleable name="ExpandableTextView">
+        <attr name="trimLength" format="integer"/>
+    </declare-styleable>
+    <declare-styleable name="Cardbar_text">
+        <attr name="text" format="string"/>
+    </declare-styleable>
+</resources>

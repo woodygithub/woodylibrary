@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="Task.PleaseWait">请稍候</string>
+    <string name="Task.LoadFail">载入失败</string>
+    <string name="Task.DoSuccess">操作成功</string>
+
+</resources>
